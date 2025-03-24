@@ -79,7 +79,7 @@
                     android:layout_marginHorizontal="25dp"
                     android:layout_height="wrap_content"
                     android:layout_width="wrap_content"
-                    android:text="Verifying your PIN..."
+                    android:text="Add PIN"
                     />
             </LinearLayout>
             <LinearLayout
