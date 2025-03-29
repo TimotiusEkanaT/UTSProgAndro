@@ -15,45 +15,22 @@
             android:id="@+id/rm657hu0p06b"
             android:textColor="#000000"
             android:textSize="50sp"
-            android:layout_marginTop="70dp"
+            android:layout_marginTop="250dp"
             android:layout_marginBottom="30dp"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
             android:text="SaveVault"
             android:layout_gravity="center"
             />
+
         <ImageView
             android:id="@+id/logo"
             android:layout_width="125dp"
             android:layout_height="125dp"
+            android:layout_gravity="center"
             android:layout_marginBottom="209dp"
-            android:src="@drawable/logo"
-            android:layout_gravity="center"
             android:scaleType="fitXY"
-            />
-        <LinearLayout
-            android:id="@+id/layout_get_started"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@drawable/bg_btn_started"
-            android:paddingVertical="3dp"
-            android:paddingHorizontal="50dp"
-            android:layout_marginBottom="200dp"
-            android:clickable="true"
-            android:focusable="true"
-            android:orientation="vertical"
-            android:layout_gravity="center"
-            android:minWidth="48dp"
-            android:minHeight="48dp">
+            android:src="@drawable/logo" />
 
-            <TextView
-                android:id="@+id/get_started"
-                android:textColor="#000000"
-                android:textSize="18sp"
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:text="Get Started"
-                />
-        </LinearLayout>
     </LinearLayout>
 </LinearLayout>
