@@ -21,6 +21,7 @@
                 android:src="@drawable/navigate_before"
                 android:clickable="true"
                 android:scaleType="fitXY"
+                android:contentDescription="back"
                 />
             <LinearLayout
                 android:id="@+id/layout_hiddennote_logo"
@@ -73,21 +74,16 @@
                     android:paddingHorizontal="15dp"
                     />
             </LinearLayout>
-            <LinearLayout
-                android:id="@+id/btnswitch_on"
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/switch_hidden_notes"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/btn_switchon"
-                android:paddingVertical="4dp"
-                android:paddingLeft="24dp"
-                android:paddingRight="4dp"
-                android:layout_marginBottom="354dp"
-                android:layout_marginStart="165dp"
-                android:orientation="vertical">
-                <Switch
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                android:thumbTint="@color/black"
+                android:trackTint="@color/white"
+                android:layout_gravity="center"
+                />
             </LinearLayout>
-        </LinearLayout>
+
 
 </LinearLayout>
