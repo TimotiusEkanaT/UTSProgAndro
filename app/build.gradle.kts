@@ -46,4 +46,6 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation("com.google.android.material:material:1.9.0") // Gunakan versi terbaru
+    implementation("androidx.biometric:biometric:1.2.0-alpha05") //biometric
+
 }
