@@ -9,13 +9,19 @@
 ## Pembagian Tugas:
 - **Icha Patricia / 71210784**  
   - Membuat layout:
-    1. Loading screen  
+    1. Loading screen sampai 
     2. Security PIN  
-  - Membuat register email dengan Firebase (di folder `register.txt`)
+  - Membuat register email dengan Firebase 
   
-**Timotius Ekana Tejo Kesuma / 71220829**
-
-1. FaceID
-
-2. Fingerprint
+- **Timotius Ekana Tejo Kesuma / 71220829**
+  - Membuat design di figma
+  - FaceID
+  - Fingerprint
+    
+- **Thea Marya Natasia / 71210701**
+  - Membuat layout:
+    1. Detail notes sampai
+    2. Authentication Pin
+  - Register Google dengan firebase
+  
 
