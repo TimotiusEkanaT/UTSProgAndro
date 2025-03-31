@@ -11,4 +11,8 @@
   - Membuat layout:
     1. Loading screen  
     2. Security PIN  
-  - Membuat register email dengan Firebase (di folder `register.txt`)  
+  - Membuat register email dengan Firebase (di folder `register.txt`)
+  **Timotius Ekana Tejo Kesuma / 71220829**
+    1. FaceID
+    2. Fingerprint
+
