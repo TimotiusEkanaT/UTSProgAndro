@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285307787020",
+    "project_id": "believe-308db",
+    "storage_bucket": "believe-308db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285307787020:android:8a9d86ddd5c8b5b44e5b29",
+        "android_client_info": {
+          "package_name": "com.example.believe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDER0ZdkyNJ1UHuZ2K4pUYgQmayGR89YiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
