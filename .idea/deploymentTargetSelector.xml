@@ -4,6 +4,17 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
+<<<<<<< HEAD
+=======
+        <DropdownSelection timestamp="2025-03-31T08:46:10.016869600Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=6713bbbf" />
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
+>>>>>>> 6070765 (layout awal)
       </SelectionState>
     </selectionStates>
   </component>

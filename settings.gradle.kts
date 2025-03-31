@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "SafeVault"
+=======
+rootProject.name = "believe"
+>>>>>>> 6070765 (layout awal)
 include(":app")
  

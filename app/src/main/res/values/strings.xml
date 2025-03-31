@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">SafeVault</string>
+=======
+    <string name="app_name">register_safevault</string>
+>>>>>>> 6070765 (layout awal)
 </resources>
